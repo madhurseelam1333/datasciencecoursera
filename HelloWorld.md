@@ -1,2 +1,1 @@
-# datasciencecoursera
-Coresera Project
+# datasciencecoursera Coresera Project
